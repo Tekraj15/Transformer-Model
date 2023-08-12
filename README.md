@@ -1,8 +1,7 @@
 # Transformer-Model
 
 
-What
+What, Why, When AND How of Transformer Architecture :
 
-Why
 
-When
+https://twitter.com/i/status/1690287086740602882
